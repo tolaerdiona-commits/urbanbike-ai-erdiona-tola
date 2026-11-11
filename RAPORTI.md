@@ -8,7 +8,7 @@
 | Grupi | Grupi 22 |
 | Roli në aktivitet | Analiza e te dhenave dhe modelimi |
 | Figma | _(do të shtohet)_ |
-| GitHub-i im | _(do të shtohet pas publikimit)_ |
+| GitHub-i im | https://github.com/tolaerdiona-commits/urbanbike-ai-erdiona-tola |
 
 ## Qëllimi
 
